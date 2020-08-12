@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/monoster-rolodex/static/css/main.45fb6d5d.chunk.css",
+    "main.js": "/github.io/monoster-rolodex/static/js/main.5263e647.chunk.js",
+    "main.js.map": "/github.io/monoster-rolodex/static/js/main.5263e647.chunk.js.map",
+    "runtime-main.js": "/github.io/monoster-rolodex/static/js/runtime-main.0ac3b111.js",
+    "runtime-main.js.map": "/github.io/monoster-rolodex/static/js/runtime-main.0ac3b111.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/github.io/monoster-rolodex/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/github.io/monoster-rolodex/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/github.io/monoster-rolodex/index.html",
+    "precache-manifest.a9b66d9098e03c77e30aebecce14fbc8.js": "/github.io/monoster-rolodex/precache-manifest.a9b66d9098e03c77e30aebecce14fbc8.js",
+    "service-worker.js": "/github.io/monoster-rolodex/service-worker.js",
+    "static/css/main.45fb6d5d.chunk.css.map": "/github.io/monoster-rolodex/static/css/main.45fb6d5d.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/github.io/monoster-rolodex/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ac3b111.js",
+    "static/js/2.9fc7c5d0.chunk.js",
+    "static/css/main.45fb6d5d.chunk.css",
+    "static/js/main.5263e647.chunk.js"
+  ]
+}
